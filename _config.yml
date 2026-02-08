@@ -1,0 +1,54 @@
+title: Incomplete Developer
+description: >-
+  A blog about C# & .NET development, tech tutorials, and personal projects.
+  Learning and building in public.
+
+baseurl: ""
+url: "https://mpholoane-bapela.github.io"
+
+# Author information
+author:
+  name: Mpholoane Bapela
+  email: your-email@example.com  # Optional - update or remove
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: github, user_url: "https://github.com/mpholoane-bapela" }
+    # Add more social links as needed:
+    # - { platform: twitter, user_url: "https://twitter.com/your_username" }
+    # - { platform: linkedin, user_url: "https://www.linkedin.com/in/your_username" }
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Mpholoane Bapela"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
