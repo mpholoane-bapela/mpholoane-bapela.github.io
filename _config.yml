@@ -1,0 +1,52 @@
+title: Incomplete Developer
+author: Mpholoane Bapela
+url: "https://mpholoane-bapela.github.io"
+description: >-
+  A blog about C# & .NET development, tech tutorials, and personal projects.
+  Learning and building in public.
+
+baseurl: ""
+permalink: /:slug
+
+favicon: "./logo.png"
+
+# Social links
+twitter:
+  username: # your twitter username (optional)
+
+# Theme settings
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "home.." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+# SEO settings
+seo_meta_tags: true
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
