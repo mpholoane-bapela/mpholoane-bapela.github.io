@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Cool Modern Light Blue Menu Styling */
+.horizontal-list {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 1rem 0;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+}
+
+.horizontal-list a {
+  color: #ffffff !important;
+  font-weight: 500;
+  padding: 0.5rem 1.2rem;
+  margin: 0 0.3rem;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.horizontal-list a:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.horizontal-list a:active {
+  transform: translateY(0);
+}
+
+/* Alternative: Solid Light Blue Version (uncomment to use) */
+/*
+.horizontal-list {
+  background: #4A90E2;
+  padding: 1rem 0;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 10px rgba(74, 144, 226, 0.3);
+}
+
+.horizontal-list a {
+  color: #ffffff !important;
+  font-weight: 500;
+  padding: 0.5rem 1.2rem;
+  margin: 0 0.3rem;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.horizontal-list a:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+*/
+
+/* Site title styling to complement blue menu */
+h1 a {
+  color: #667eea !important;
+  font-weight: 700;
+}
+
+/* Link color adjustments for light mode */
+body.light-mode a {
+  color: #667eea;
+}
+
+body.light-mode a:hover {
+  color: #764ba2;
+}
+
+/* Code block adjustments */
+code {
+  background: #f5f7fa;
+  border: 1px solid #e3e8ee;
+  border-radius: 4px;
+  padding: 2px 6px;
+  color: #667eea;
+}
+
+/* Post metadata styling */
+.post-meta {
+  color: #667eea;
+  font-weight: 500;
+}

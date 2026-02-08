@@ -1,0 +1,17 @@
+# Social contacts
+# Replace the default Twitter, Email, RSS with YouTube, LinkedIn, Upwork
+
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/your-username"  # UPDATE THIS WITH YOUR LINKEDIN
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://youtube.com/@your-channel"  # UPDATE THIS WITH YOUR YOUTUBE
+
+- type: upwork
+  icon: "fas fa-briefcase"  # Using briefcase icon for Upwork
+  url: "https://upwork.com/freelancers/~your-id"  # UPDATE THIS WITH YOUR UPWORK
