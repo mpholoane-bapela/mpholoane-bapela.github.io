@@ -18,6 +18,21 @@ package-lock.json
 .idea
 .vscode
 
+# Visual Studio 2022 (ADD THIS SECTION!)
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnx
+.vscode/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.vsidx
+*.vsidx.lock
+
 # Misc
 assets/js/dist
 *.swp

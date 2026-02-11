@@ -6,173 +6,61 @@ A customized Chirpy Jekyll theme for a C# & .NET development blog.
 
 ## ✨ Custom Features
 
-All customizations you requested:
+1. ✅ **Your photo as avatar**
+2. ✅ **Custom social links:** YouTube, LinkedIn, Upwork, GitHub
+3. ✅ **Bigger fonts** - All text increased
+4. ✅ **Salmon pink headings** (#FF9999)
 
-1. ✅ **Your photo as avatar** - Located in `/assets/img/avatar.png`
-2. ✅ **Custom social links:**
-   - YouTube (red icon) instead of Twitter
-   - LinkedIn (blue icon) instead of Email  
-   - Upwork (green icon) instead of RSS
-   - GitHub (kept)
-3. ✅ **Bigger fonts** - All text increased by ~2px throughout
-4. ✅ **Salmon pink headings** - All H1, H2, H3 are #FF9999
+## 🚀 Installation (3 Steps)
 
-## 🚀 Installation
+### Step 1: Upload Files
+1. Delete all old files from your repository
+2. Upload ALL files from unzipped folder (including `.github` folder!)
 
-### Method 1: GitHub Web Interface (Easiest)
+### Step 2: Change GitHub Pages Settings ⚠️ IMPORTANT
+1. Go to **Settings** → **Pages**
+2. Under **Source**, change to: **"GitHub Actions"**
+3. Save
 
-1. **Delete old files** from your repository (or delete & recreate repo)
-2. **Upload all files** from the unzipped folder
-3. **Enable GitHub Pages:**
-   - Settings → Pages
-   - Source: Deploy from a branch
-   - Branch: main
-   - Save
-4. **Wait 3-5 minutes** for the site to build
+### Step 3: Wait for Build
+1. Go to **Actions** tab
+2. Watch "Build and Deploy" run (3-5 minutes)
+3. Green checkmark ✅ = Site is live!
 
-### Method 2: Git Command Line
+## ⚙️ Update Before Publishing
 
-```bash
-git clone https://github.com/mpholoane-bapela/mpholoane-bapela.github.io.git
-cd mpholoane-bapela.github.io
-# Copy all files from this folder here
-git add .
-git commit -m "Install Chirpy theme with customizations"
-git push
-```
+Edit `_config.yml` and `_data/contact.yml` with your:
+- LinkedIn URL
+- YouTube URL  
+- Upwork URL
 
-## ⚙️ Before Publishing - UPDATE THESE:
+## 📝 Adding Posts
 
-### 1. Social Media Links
-
-Edit `_config.yml` and update:
-```yaml
-social:
-  links:
-    - https://github.com/mpholoane-bapela
-    - https://linkedin.com/in/YOUR-USERNAME  # ← UPDATE
-    - https://youtube.com/@YOUR-CHANNEL      # ← UPDATE
-    - https://upwork.com/freelancers/~YOUR-ID # ← UPDATE
-```
-
-Also edit `_data/contact.yml` with the same URLs.
-
-### 2. About Page
-
-Edit `_tabs/about.md` and update your:
-- Bio
-- Tech stack
-- Social links at the bottom
-
-## 📝 Adding New Posts
-
-Create files in `_posts/` with format: `YYYY-MM-DD-title.md`
-
-Example: `_posts/2026-02-15-my-csharp-tutorial.md`
+Create: `_posts/2026-02-15-title.md`
 
 ```markdown
 ---
-title: My C# Tutorial
+title: Your Title
 date: 2026-02-15 10:00:00 +0200
-categories: [C#, Tutorials]
-tags: [csharp, dotnet, beginners]
+categories: [C#]
+tags: [dotnet]
 ---
 
-Your content here...
-
-## Code Example
-
-```csharp
-public class Example 
-{
-    public void Hello() 
-    {
-        Console.WriteLine("Hello World!");
-    }
-}
-```
-\```
-
-Markdown text continues...
+Content here...
 ```
 
-## 🎨 Further Customization
-
-### Change Heading Color
-
-Edit `assets/css/jekyll-theme-chirpy.scss`:
-```css
-h1, h2, h3, h4, h5, h6 {
-  color: #YOUR-COLOR !important;
-}
-```
-
-### Change Font Sizes
-
-Edit the same file and adjust:
-```css
-body {
-  font-size: 18px !important; /* Change this number */
-}
-```
-
-### Change Social Icon Colors
-
-Edit `assets/css/jekyll-theme-chirpy.scss` and find the social icons section.
-
-### Replace Avatar
-
-Replace `/assets/img/avatar.png` with your new photo (keep it square, ~500x500px works best).
-
-## 📂 File Structure
-
-```
-├── _config.yml          # Main configuration
-├── _data/
-│   └── contact.yml      # Social links
-├── _posts/              # Your blog posts go here
-├── _tabs/               # Main navigation pages
-│   ├── about.md
-│   ├── archives.md
-│   ├── categories.md
-│   └── tags.md
-├── assets/
-│   ├── css/
-│   │   └── jekyll-theme-chirpy.scss  # Custom styles
-│   └── img/
-│       └── avatar.png   # Your photo
-├── Gemfile
-└── .gitignore
-```
-
-## 📚 Resources
-
-- [Chirpy Documentation](https://chirpy.cotes.page/)
-- [Chirpy GitHub](https://github.com/cotes2020/jekyll-theme-chirpy)
-- [Jekyll Documentation](https://jekyllrb.com/docs/)
-- [Markdown Guide](https://www.markdownguide.org/)
+Commit → GitHub Actions rebuilds automatically!
 
 ## 🐛 Troubleshooting
 
+**Build failing?**
+- Check Actions tab for errors
+- Verify `.github` folder uploaded
+- Confirm Pages source = "GitHub Actions"
+
 **Site not showing?**
-- Wait 5 minutes for GitHub to build
-- Check Settings → Pages is enabled
-- Make sure branch is set to "main"
-
-**Styles not applying?**
-- Clear browser cache
-- Check `/assets/css/jekyll-theme-chirpy.scss` exists
-- Wait a few minutes after pushing changes
-
-**Avatar not showing?**
-- Make sure file is at `/assets/img/avatar.png`
-- Check file size (keep under 1MB)
-- Try refreshing with Ctrl+F5
-
-## 📄 License
-
-- Content: © Mpholoane Bapela
-- Theme: MIT License (Chirpy)
+- Wait 5 minutes after green checkmark
+- Hard refresh (Ctrl + Shift + R)
 
 ---
 
