@@ -27,11 +27,11 @@ Updates on things I'm building. Whether they succeed or fail, there's always som
 
 ## The Journey Continues
 
-This blog is called "Incomplete Developer" because we're all works in progress. Every senior developer was once junior. Every expert started as a beginner.
+This blog is called "Incomplete Developer" because we're all works in progress. Every banana was once a seed.
 
-I'm not here to pretend I know everything - I'm here to document what I'm learning as I go.
+The silly joke being that NOT all banana seeds grow into bananas.
 
-Let's learn together.
+So maybe eating a banana might turn one into a developer.
 
 ---
 

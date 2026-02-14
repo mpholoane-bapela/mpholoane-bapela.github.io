@@ -4,10 +4,9 @@ timezone: Africa/Johannesburg
 
 # Jekyll configuration
 title: Incomplete Developer
-tagline: Learning C# & .NET in public
+tagline: Modern Software Development (aahh that would mean AI, right?)
 description: >-
-  A blog about C# & .NET development, tech tutorials, and personal projects.
-  Because we're all works in progress.
+  A developer wannable who is very happy to be eating banana but pretends to be knowledgeable about software development. I am a fruit eater with a passion for learning and sharing knowledge. I write about my experiences and insights in the world of software development, hoping to inspire and help others on their own journeys.
 
 url: "https://mpholoane-bapela.github.io"
 baseurl: ""
@@ -21,9 +20,9 @@ social:
   email: # your-email@example.com (optional)
   links:
     - https://github.com/mpholoane-bapela
-    - https://linkedin.com/in/your-username  # UPDATE THIS
-    - https://youtube.com/@your-channel      # UPDATE THIS
-    - https://upwork.com/freelancers/~your-id # UPDATE THIS
+    - https://www.linkedin.com/in/mpholoane-bapela-3349146a 
+    - https://www.youtube.com/@IncompleteDeveloper      
+    - https://www.upwork.com/freelancers/~011db411a046eb1c2a?mp_source=share
 
 # Site verification (optional)
 webmaster_verifications:
