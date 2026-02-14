@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
+gem "jekyll", "~> 4.3"
+gem "jekyll-archives"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
 
 group :test do
   gem "html-proofer", "~> 5.0"
