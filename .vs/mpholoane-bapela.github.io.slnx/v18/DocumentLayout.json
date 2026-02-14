@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -33,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,20 +93,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-14T21:34:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-02-14T21:19:51.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "categories.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_tabs\\categories.md",
               "RelativeDocumentMoniker": "_tabs\\categories.md",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "2026-02-08-welcome-to-incomplete-developer.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026-02-08-welcome-to-incomplete-developer.md",
               "RelativeDocumentMoniker": "_posts\\2026-02-08-welcome-to-incomplete-developer.md",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "jekyll-theme-chirpy-fixed.scss",
               "DocumentMoniker": "B:\\User Data\\Downloads\\jekyll-theme-chirpy-fixed.scss",
               "ToolTip": "B:\\User Data\\Downloads\\jekyll-theme-chirpy-fixed.scss",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "jekyll-theme-chirpy.scss",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\assets\\css\\jekyll-theme-chirpy.scss",
               "RelativeDocumentMoniker": "assets\\css\\jekyll-theme-chirpy.scss",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",

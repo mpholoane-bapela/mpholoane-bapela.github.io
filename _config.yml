@@ -148,4 +148,4 @@ jekyll-archives:
     category: /categories/:name/
 
 # Theme
-theme: jekyll-theme-chirpy
+remote_theme: cotes2020/chirpy
