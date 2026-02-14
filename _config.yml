@@ -1,158 +1,37 @@
-# Site settings
-lang: en
+# Site Configuration
 timezone: Africa/Johannesburg
 
-# Jekyll configuration
+# Basic Info
 title: Incomplete Developer
 tagline: Modern Software Development (aahh that would mean AI, right?)
 description: >-
   A developer wannable who is very happy to be eating banana but pretends to be knowledgeable about software development. I am a fruit eater with a passion for learning and sharing knowledge. I write about my experiences and insights in the world of software development, hoping to inspire and help others on their own journeys.
 
 url: "https://mpholoane-bapela.github.io"
-baseurl: ""
 
 github:
   username: mpholoane-bapela
 
-# Social media
 social:
   name: Mpholoane Bapela
-  email: # your-email@example.com (optional)
+  email:
   links:
     - https://github.com/mpholoane-bapela
-    - https://www.linkedin.com/in/mpholoane-bapela-3349146a 
-    - https://www.youtube.com/@IncompleteDeveloper      
+    - https://www.linkedin.com/in/mpholoane-bapela-3349146a
+    - https://www.youtube.com/@IncompleteDeveloper
     - https://www.upwork.com/freelancers/~011db411a046eb1c2a?mp_source=share
 
-# Site verification (optional)
-webmaster_verifications:
-  google: # your-verification-code
-  bing: # your-verification-code
-
-# Analytics (optional)
-google_analytics:
-  id: # your-GA-ID
-
-# Avatar - using your uploaded photo!
 avatar: /assets/img/avatar.png
 
-# Theme settings
-theme_mode: # [light | dark]
+# Theme mode: [light|dark]
+theme_mode:
 
-# CDN endpoint for media resources
-cdn: ""
-
-# The avatar on sidebar, support local or CORS resources
-# img_cdn: ""
-
-# Boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: # giscus, disqus, utterances (optional - configure later)
+  active:
 
-# Page views
-pageviews:
-  provider: # google, goatcounter, umami, matomo (optional)
-
-# Prefer color scheme setting
-prefer_color_scheme: # [light | dark | auto]
-
-# The end of `jekyll-seo-tag` settings
-
-# Web Analytics Settings
-analytics:
-  google:
-    id: # fill in your Google Analytics ID
-
-# Permalink
-permalink: /posts/:title/
-
-# Pagination
 paginate: 10
 
 # Build settings
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-# Collections
-collections:
-  tabs:
-    output: true
-    sort_by: order
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
-  - scope:
-      path: _drafts
-    values:
-      comments: false
-  - scope:
-      path: ""
-      type: tabs
-    values:
-      layout: page
-      permalink: /:title/
-
-sass:
-  style: compressed
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-sitemap
-  - jekyll-redirect-from
-
-# Exclude from processing
-exclude:
-  - "*.gem"
-  - "*.gemspec"
-  - docs
-  - tools
-  - README.md
-  - LICENSE
-  - rollup.config.js
-  - package*.json
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
-
-# Theme - using remote_theme for GitHub Pages
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
