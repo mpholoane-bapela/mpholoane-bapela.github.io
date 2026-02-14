@@ -65,10 +65,6 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
 
-# Page views
-pageviews:
-  provider: # now only supports 'goatcounter'
-
 # Permalink
 permalink: /posts/:title/
 
@@ -127,6 +123,14 @@ compress_html:
   ignore:
     envs: [development]
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
 # Exclude from processing
 exclude:
   - "*.gem"
@@ -137,6 +141,9 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -147,5 +154,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# Theme
-remote_theme: cotes2020/chirpy
+# Theme - using remote_theme for GitHub Pages
+remote_theme: cotes2020/jekyll-theme-chirpy
