@@ -1,13 +1,20 @@
 # Site settings
 timezone: Africa/Johannesburg
-
 title: Incomplete Developer
 tagline: Modern Software Development (aahh that would mean AI, right?)
-description: >-
+description: >
   A developer who is very happy to be eating banana but pretends to be knowledgeable about software development.
 
 url: "https://mpholoane-bapela.github.io"
 baseurl: ""
+
+theme: jekyll-theme-chirpy
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
 
 github:
   username: mpholoane-bapela
