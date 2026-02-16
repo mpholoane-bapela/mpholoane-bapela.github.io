@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Welcome to Incomplete Developer
 date: 2026-02-08 10:00:00 +0200
 pin: true
