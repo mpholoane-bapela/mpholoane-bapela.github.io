@@ -40,17 +40,13 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
+      - name: Install Dependencies
+        run: bundle install
+
       - name: Build site
         run: bundle exec jekyll build -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
-
-      # Optional: HTMLProofer test (comment if failing)
-      #- name: Test site
-      #  run: |
-      #    bundle exec htmlproofer _site \
-      #      --disable-external \
-      #      --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3

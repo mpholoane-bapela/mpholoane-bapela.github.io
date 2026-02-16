@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\pages-deploy.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\index.md||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.md||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_config.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026-02-08-welcome-to-incomplete-developer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026-02-08-welcome-to-incomplete-developer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_config.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-02-16T19:50:25.623Z",
               "EditorCaption": ""
@@ -117,19 +117,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "Title": "index.md",
+              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\index.md",
+              "RelativeDocumentMoniker": "index.md",
+              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\index.md",
+              "RelativeToolTip": "index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-16T19:50:05.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "2026-02-15-copilot-tips.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026-02-15-copilot-tips.md",
               "RelativeDocumentMoniker": "_posts\\2026-02-15-copilot-tips.md",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "2026-02-08-welcome-to-incomplete-developer.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026-02-08-welcome-to-incomplete-developer.md",
               "RelativeDocumentMoniker": "_posts\\2026-02-08-welcome-to-incomplete-developer.md",
@@ -161,7 +161,7 @@
               "RelativeDocumentMoniker": ".github\\workflows\\pages-deploy.yml",
               "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\.github\\workflows\\pages-deploy.yml",
               "RelativeToolTip": ".github\\workflows\\pages-deploy.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-02-16T19:14:01.954Z",
               "EditorCaption": ""
