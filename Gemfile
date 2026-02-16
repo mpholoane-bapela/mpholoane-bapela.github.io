@@ -2,8 +2,8 @@
 
 source "https://rubygems.org"
 
-# Jekyll and Chirpy theme
-gem "jekyll", "~> 5.0"
+# Jekyll and Chirpy theme (compatible versions)
+gem "jekyll", "~> 4.3"
 gem "jekyll-theme-chirpy", "~> 7.4", ">= 7.4.1"
 
 # Required plugins for Chirpy
