@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
     "\\assets",
     "\\assets\\img",
+    "\\assets\\img\\posts",
+    "\\assets\\img\\posts\\2026",
+    "\\assets\\img\\posts\\2026\\02_Feb",
+    "\\assets\\img\\posts\\2026\\02_Feb\\17-SpeedTests",
     "\\_data",
-    "\\_plugins",
-    "\\_posts",
-    "\\_posts\\2026\\02_Feb",
-    "\\_tabs"
+    "\\_posts"
   ],
-  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
