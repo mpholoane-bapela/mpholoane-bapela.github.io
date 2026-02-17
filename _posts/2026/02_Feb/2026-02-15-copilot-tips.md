@@ -3,6 +3,7 @@ layout: post
 title: "GitHub Copilot Agent Mode in Visual Studio 2026: Tips and Tutorial"
 date: 2026-02-15 23:00:00 +0200
 last_modified_at: 2026-02-15 23:00:00 +0200  # Update date
+categories: [Development, AI]
 tags: [github-copilot, visual-studio-2026, ai-coding, tutorial]
 pin: false
 ---
@@ -14,7 +15,7 @@ GitHub Copilot’s **Agent Mode** in Visual Studio 2026 is powerful — but only
 
 Below is a concise breakdown of what actually matters.
 
----
+***
 
 ## 🚀 Quick Tips (Read This First)
 
@@ -28,12 +29,11 @@ Below is a concise breakdown of what actually matters.
 - **Interrupt long-running tasks** — Don’t let Agent mode spin indefinitely.
 - **Be cautious with repetitive template-based code generation** — It’s slower than expected.
 
----
-
+***
 ## Watch Full Video
 [GitHub Copilot Agent Mode in Visual Studio 2026 - Tips for Usage](https://www.youtube.com/watch?v=wBgNflnfIEA&list=PLphsQTGN5DbLdV_onH0hKB_b-ezcIvAZk&index=1)
 
----
+***
 
 
 # Chat Mode vs. Agent Mode
@@ -54,7 +54,7 @@ Copilot operates in two modes:
 
 If you’re serious about productivity, Agent mode is where the value is — especially with a Pro subscription.
 
----
+***
 
 # The Golden Rule: Source Control First
 
@@ -66,8 +66,7 @@ Before using Agent mode:
 
 Agent mode can generate massive changes quickly. Not everything will work on the first try. Source control is your safety net.
 
----
-
+***
 # Understand the Workspace (Your Sandbox)
 
 Copilot can only access files inside its **workspace**.
@@ -83,7 +82,7 @@ If you’re rewriting a solution while preserving the original:
 
 When in doubt, ask Copilot to confirm its current workspace.
 
----
+***
 
 # Always Review Execution Plans
 
@@ -93,7 +92,7 @@ Before executing actions, Copilot generates an execution plan.
 
 What you meant and what Copilot interpreted are not always the same. Reviewing plans saves time and prevents damage.
 
----
+***
 
 # Choosing the Right Model (Speed vs. Cost)
 
@@ -123,7 +122,7 @@ General strategy:
 
 This preserves premium credits while maintaining speed.
 
----
+***
 
 # When PowerShell Is Faster
 
@@ -138,7 +137,7 @@ Better approach:
 
 For heavy solution setup, scripts often outperform Agent mode dramatically.
 
----
+***
 
 # The Repetitive Code Problem
 
@@ -161,7 +160,7 @@ For large repetitive work, consider:
 - Scripts
 - Manual batching strategies
 
----
+***
 
 # Use Common Sense
 
@@ -179,7 +178,7 @@ Also:
 - Ask for progress if it seems stuck.
 - Don’t hesitate to pivot strategies.
 
----
+***
 
 # Final Thoughts
 

@@ -1,13 +1,18 @@
 ---
-title: "GitHub Copilot Model Showdown – Visual Studio 2026 Speed Test"
-tags: [AI, GitHubCopilot, DeveloperTools]
+layout: post
+title: "GitHub Copilot Models Speed Test – Visual Studio 2026 "
+date: 2026-02-17 17:35:00 +0200
+last_modified_at: 2026-02-17 17:35:00 +0200  # Update date
+categories: [Development, AI]
+tags: [github-copilot, visual-studio-2026, ai-coding, insights]
+pin: true
 ---
 
 # GitHub Copilot Model Showdown – Visual Studio 2026 Speed Test
 
 GitHub Copilot gives you access to multiple AI coding models under a single subscription—but **speed, focus, and cost** vary widely. I decided to put them head-to-head in **Visual Studio 2026** to see which ones actually deliver on real coding tasks. Spoiler: the differences are bigger than you might think.
 
----
+***
 
 ## The Task
 
@@ -47,7 +52,7 @@ private IQueryable<ResultCheckSumSa> GetAllQuery()
 
 > A human developer could complete this in ~15–20 minutes. How would AI stack up?
 
----
+***
 
 ## Contestants
 
@@ -64,7 +69,7 @@ private IQueryable<ResultCheckSumSa> GetAllQuery()
 
 > *(Grok Fast was warmed up before timing to avoid cold-start lag.)*
 
----
+***
 
 ## The Results
 
@@ -76,7 +81,7 @@ private IQueryable<ResultCheckSumSa> GetAllQuery()
 | Grok Fast         | 2.5 min* | First run: 5 min          |
 | ChatGPT 5 Mini    | 4.25 min | Drifted off-task          |
 
----
+***
 
 ## Model Personalities
 
@@ -110,7 +115,7 @@ private IQueryable<ResultCheckSumSa> GetAllQuery()
      style="max-width: 100%; height: auto;" 
      loading="lazy">
 
----
+***
 
 ## Premium vs Free
 
@@ -121,7 +126,7 @@ Example: Claude Sonnet 4.5 → 90 sec vs 4+ min for free
 
 > Saves ~2.5 hours/week and keeps you in flow
 
----
+***
 
 ## Takeaways
 
@@ -130,7 +135,7 @@ Example: Claude Sonnet 4.5 → 90 sec vs 4+ min for free
 * Free models are OK for casual use but can cost time in context switching
 * IDE integration often matters more than raw model speed
 
----
+***
 
 ## Recommendations
 
@@ -139,7 +144,7 @@ Example: Claude Sonnet 4.5 → 90 sec vs 4+ min for free
 * **Budget-conscious:** Claude Haiku 4.5
 * **Learning/exploration:** ChatGPT 5
 
----
+***
 
 ## Watch the Full Test
 
@@ -153,4 +158,4 @@ Check out the **full video** comparing all five models, including bonus web chat
   </iframe>
 </div>
 
----
+***

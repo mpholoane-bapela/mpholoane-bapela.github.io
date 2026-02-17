@@ -32,6 +32,5 @@ The silly joke being that NOT all banana seeds grow into bananas.
 
 So maybe eating a banana might turn one into a developer.
 
----
-
+***
 *Stay tuned for more posts coming soon!*
