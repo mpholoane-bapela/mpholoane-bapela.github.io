@@ -1,0 +1,36 @@
+/* Custom styles for Incomplete Developer blog */
+
+/* Navigation links with light blue background */
+a.nav-link {
+  background-color: #ADD8E6; /* Light blue */
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #87CEEB; /* Slightly darker on hover */
+  }
+}
+
+
+
+/* Force code blocks to scroll horizontally instead of wrapping */
+div.highlight, figure.highlight {
+  pre {
+    white-space: pre !important;
+    overflow-x: auto !important;
+    word-break: normal !important;
+    word-wrap: normal !important;
+  }
+
+  code {
+    white-space: pre !important;
+    word-break: normal !important;
+  }
+}
+
+/* Also target inline rouge highlighter */
+.highlight pre.highlight {
+  white-space: pre !important;
+  overflow-x: auto !important;
+}
