@@ -1,17 +1,16 @@
 /* Force code blocks to scroll horizontally */
-div.highlight,
-figure.highlight {
-  pre {
-    white-space: pre !important;
-    overflow-x: auto !important;
-    word-break: normal !important;
-    word-wrap: normal !important;
-  }
+div.highlight pre,
+figure.highlight pre {
+  white-space: pre !important;
+  overflow-x: auto !important;
+  word-break: normal !important;
+  word-wrap: normal !important;
+}
 
-  code {
-    white-space: pre !important;
-    word-break: normal !important;
-  }
+div.highlight code,
+figure.highlight code {
+  white-space: pre !important;
+  word-break: normal !important;
 }
 
 .highlight pre.highlight {
@@ -25,8 +24,8 @@ a.nav-link {
   padding: 0.5rem 1rem;
   border-radius: 4px;
   transition: background-color 0.3s ease;
+}
 
-  &:hover {
+  a.nav-link:hover {
     background-color: #87CEEB;
   }
-}
