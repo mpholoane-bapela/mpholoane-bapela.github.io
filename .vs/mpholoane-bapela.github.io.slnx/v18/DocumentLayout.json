@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-08-welcome-to-incomplete-developer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "2026-02-17-copilot-models-speeds.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
               "RelativeDocumentMoniker": "_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
               "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
               "RelativeToolTip": "_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-16T22:10:25.358Z",
               "EditorCaption": ""
@@ -153,13 +153,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "2026-02-15-copilot-tips.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
               "RelativeDocumentMoniker": "_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
               "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
               "RelativeToolTip": "_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-16T19:30:50.393Z",
               "EditorCaption": ""

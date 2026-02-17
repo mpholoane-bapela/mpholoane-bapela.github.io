@@ -8,7 +8,6 @@ tags: [github-copilot, visual-studio-2026, ai-coding, insights]
 pin: true
 ---
 
-# GitHub Copilot Model Showdown – Visual Studio 2026 Speed Test
 
 GitHub Copilot gives you access to multiple AI coding models under a single subscription—but **speed, focus, and cost** vary widely. I decided to put them head-to-head in **Visual Studio 2026** to see which ones actually deliver on real coding tasks. Spoiler: the differences are bigger than you might think.
 
