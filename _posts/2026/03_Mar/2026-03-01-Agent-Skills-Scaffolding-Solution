@@ -1,0 +1,104 @@
+---
+layout: post
+title: Welcome to Incomplete Developer
+date: 2026-03-01 15:30:00 +0200
+pin: true
+---
+
+# Teaching AI to Scaffold a .NET Clean Architecture Solution
+
+Starting a new .NET project often feels like repeating the same steps over and over again:
+
+- Create a solution  
+- Add multiple projects  
+- Configure references  
+- Install NuGet packages  
+- Enforce architectural guidelines  
+
+Even if you're experienced, this process typically takes **10–15 minutes** every time.  
+
+But what if you could automate all of it?  
+
+Recently, I decided to experiment with **Agent Skills**—a way to teach AI coding agents how to perform specific development workflows. Instead of manually setting up the project structure, I created an Agent Skill that automates the entire scaffolding process for a **Clean Architecture-based .NET solution**.
+
+---
+
+## 🎥 Full Demo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/rnRmdNrDkmo" 
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen 
+          style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+---
+
+## What Are Agent Skills?
+
+Agent Skills are **reusable workflows that extend AI coding agents with specialized capabilities**. Think of them as "playbooks" for AI—instead of repeatedly explaining the same task to the assistant, you define a repeatable procedure that the agent can execute whenever needed.
+
+A typical Agent Skill includes:
+
+- Step-by-step instructions  
+- Optional scripts or templates  
+- Any resources required for the task  
+
+When the AI detects a relevant task, it loads the skill and **executes the workflow automatically**. This concept is gaining traction in tools like **Visual Studio Code** through AI assistants like **GitHub Copilot**.  
+
+For more details, check out [Command Code's documentation on Agent Skills](https://commandcode.ai/docs/skills/what-are-skills?utm_source=chatgpt.com).
+
+<img src="/assets/img/posts/2026/03_Mar/01-Skill_Scaffold/VS 2026 - Goal.png" 
+     alt="Clean Architecture in .NET" 
+     style="max-width: 100%; height: auto;" 
+     loading="lazy">
+
+---
+
+## The Skill I Built
+
+In this case, I created an Agent Skill that scaffolds a **.NET solution following Clean Architecture principles**. When invoked, the AI automatically:
+
+1. Creates a new solution  
+2. Generates the required projects (e.g., `Domain`, `Application`, `Infrastructure`, `Web`)  
+3. Adds project references  
+4. Installs necessary NuGet packages  
+5. Enforces the expected architecture structure  
+
+Instead of spending **10–15 minutes** manually setting everything up, the AI creates the entire baseline **in seconds**.
+
+---
+
+## Why This Is Useful
+
+### ⏱ Faster Project Setup
+Manual scaffolding is time-consuming. With an Agent Skill, the process becomes nearly instant.  
+
+### 📐 Consistent Architecture
+Every project starts with the **same conventions and structure**, which is especially helpful for teams working on multiple projects.  
+
+### 🤖 AI That Executes Workflows
+This goes beyond generating code snippets. AI agents can now handle deterministic development tasks, saving you time and reducing errors.  
+
+<img src="/assets/img/posts/2026/03_Mar/01-Skill_Scaffold/Diagram - 02.png" 
+     alt="Scaffolding .NET Solution" 
+     style="max-width: 100%; height: auto;" 
+     loading="lazy">
+
+---
+
+## The Bigger Idea
+
+Agent Skills represent a shift in how developers interact with AI. Instead of relying on AI as a passive assistant, we can now **teach it repeatable engineering procedures**.  
+
+Once defined, these skills can serve as building blocks for larger workflows, such as:
+
+- Specification-driven development  
+- Automated project scaffolding  
+- Environment setup  
+- Testing pipelines  
+
+We’re moving from **AI assistants** to **AI-powered development workflows**—and the possibilities are exciting.  
+
+---

@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\img",
+    "\\assets\\css",
     "\\assets\\img\\posts",
     "\\assets\\img\\posts\\2026",
     "\\assets\\img\\posts\\2026\\02_Feb",
     "\\assets\\img\\posts\\2026\\02_Feb\\17-SpeedTests",
-    "\\_data",
-    "\\_posts"
+    "\\_includes",
+    "\\_posts",
+    "\\_posts\\2026",
+    "\\_posts\\2026\\02_Feb"
   ],
+  "SelectedNode": "\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
   "PreviewInSolutionExplorer": false
 }
