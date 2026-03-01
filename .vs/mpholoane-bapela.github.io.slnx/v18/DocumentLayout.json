@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-08-welcome-to-incomplete-developer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-08-welcome-to-incomplete-developer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,8 +58,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2026-03-01-Agent-Skills-Scaffolding-Solution.md",
+              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution.md",
+              "RelativeDocumentMoniker": "_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution.md",
+              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution.md",
+              "RelativeToolTip": "_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-01T13:34:56.48Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -115,38 +129,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "2026-03-01-Agent-Skills-Scaffolding-Solution",
-              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution",
-              "RelativeDocumentMoniker": "_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution",
-              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution",
-              "RelativeToolTip": "_posts\\2026\\03_Mar\\2026-03-01-Agent-Skills-Scaffolding-Solution",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAhwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-01T13:34:56.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "custom.scss",
-              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\assets\\css\\custom.scss",
-              "RelativeDocumentMoniker": "assets\\css\\custom.scss",
-              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\assets\\css\\custom.scss",
-              "RelativeToolTip": "assets\\css\\custom.scss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2026-02-17T15:52:56.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "2026-02-17-copilot-models-speeds.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
               "RelativeDocumentMoniker": "_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
               "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
               "RelativeToolTip": "_posts\\2026\\02_Feb\\2026-02-17-copilot-models-speeds.md",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-16T22:10:25.358Z",
               "EditorCaption": ""
@@ -192,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "2026-02-08-welcome-to-incomplete-developer.md",
               "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-08-welcome-to-incomplete-developer.md",
               "RelativeDocumentMoniker": "_posts\\2026\\02_Feb\\2026-02-08-welcome-to-incomplete-developer.md",
@@ -201,6 +189,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-02-16T19:30:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2026-02-15-copilot-tips.md",
+              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
+              "RelativeDocumentMoniker": "_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
+              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
+              "RelativeToolTip": "_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-16T19:30:50.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "custom.scss",
+              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\assets\\css\\custom.scss",
+              "RelativeDocumentMoniker": "assets\\css\\custom.scss",
+              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\assets\\css\\custom.scss",
+              "RelativeToolTip": "assets\\css\\custom.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2026-02-17T15:52:56.255Z",
               "EditorCaption": ""
             },
             {
@@ -214,19 +228,6 @@
               "ViewState": "AgIAAEQAAAAAAAAAAAAhwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-17T18:43:33.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2026-02-15-copilot-tips.md",
-              "DocumentMoniker": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
-              "RelativeDocumentMoniker": "_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
-              "ToolTip": "C:\\Users\\E BAPELA-PC\\source\\repos\\mpholoane-bapela\\mpholoane-bapela.github.io\\_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
-              "RelativeToolTip": "_posts\\2026\\02_Feb\\2026-02-15-copilot-tips.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-16T19:30:50.393Z",
               "EditorCaption": ""
             },
             {

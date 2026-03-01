@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Welcome to Incomplete Developer
+title: "Agent Skills - Teaching AI to Scaffold a .NET Clean Architecture Solution"
 date: 2026-03-01 15:30:00 +0200
-pin: true
+last_modified_at: 2026-03-01 15:30:00 +0200  # Update date
+categories: [Development, AI]
+tags: [agent-skills, clean-architecture, ai-coding, tutorial]
+pin: false
 ---
-
-# Teaching AI to Scaffold a .NET Clean Architecture Solution
 
 Starting a new .NET project often feels like repeating the same steps over and over again:
 
@@ -26,7 +27,7 @@ Recently, I decided to experiment with **Agent Skills**—a way to teach AI codi
 ## 🎥 Full Demo
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="https://www.youtube.com/embed/rnRmdNrDkmo" 
+  <iframe src="https://www.youtube.com/embed/rnRmdNrDkmo" k
           frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen 
           style="position: absolute; top:0; left: 0; width: 100%; height: 100%;">
@@ -49,7 +50,7 @@ When the AI detects a relevant task, it loads the skill and **executes the workf
 
 For more details, check out [Command Code's documentation on Agent Skills](https://commandcode.ai/docs/skills/what-are-skills?utm_source=chatgpt.com).
 
-<img src="/assets/img/posts/2026/03_Mar/01-Skill_Scaffold/VS 2026 - Goal.png" 
+<img src="/assets/img/posts/2026/03_Mar/01-Skill_Scaffold/VS_2026-Goal.png" 
      alt="Clean Architecture in .NET" 
      style="max-width: 100%; height: auto;" 
      loading="lazy">
@@ -81,7 +82,7 @@ Every project starts with the **same conventions and structure**, which is espec
 ### 🤖 AI That Executes Workflows
 This goes beyond generating code snippets. AI agents can now handle deterministic development tasks, saving you time and reducing errors.  
 
-<img src="/assets/img/posts/2026/03_Mar/01-Skill_Scaffold/Diagram - 02.png" 
+<img src="/assets/img/posts/2026/03_Mar/01-Skill_Scaffold/Diagram-02.png" 
      alt="Scaffolding .NET Solution" 
      style="max-width: 100%; height: auto;" 
      loading="lazy">
